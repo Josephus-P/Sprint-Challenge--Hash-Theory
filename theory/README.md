@@ -31,6 +31,8 @@
 > One of your instructors was once hired to implement VT-100 emulation
 > in an app, and they used a state machine to do it.
 
+![state machine](./sm.png)
+
 ## Computation
 
 Fill out truth tables for the following expressions:
